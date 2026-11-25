@@ -1,6 +1,8 @@
 # Edit this file at https://github.com/edgarcutar/insane-goblin-app-ads/blob/main/app-ads.txt
-OWNERDOMAIN=insanegoblinstudios.com
+google.com, pub-6936162399528149, DIRECT, f08c47fec0942fa0
 google.com, pub-5962817342844692, DIRECT, f08c47fec0942fa0
+
+OWNERDOMAIN=insanegoblinstudios.com
 adwmg.com, 159512, RESELLER, c9688a22012618e7
 taurusx.com, 70097, RESELLER
 insticator.com, cadff748-965f-4393-a76e-a8f902512bad, RESELLER, b3511ffcafb23a32
